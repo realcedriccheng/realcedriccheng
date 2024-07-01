@@ -1,17 +1,17 @@
 
 Student of 
 <br/>
-&nbsp;*Key Laboratory of Information Storage System, Ministry of Education of China*
+&emsp;*Key Laboratory of Information Storage System, Ministry of Education of China*
 <br/>
-&nbsp;*School of Computer Science and Technology*
+&emsp;*School of Computer Science and Technology*
 <br/>
-&nbsp;*Huazhong University of Science and Technology*
+&emsp;*Huazhong University of Science and Technology*
 
 Brief Biography: 
 <br/>
-&nbsp;I am a Master student in Huazhong University of Science and Technology (HUST), I obtained the B.S degree in Computer Science from Xi'an Jiaotong University (XJTU). 
+&emsp;I am a Master student in Huazhong University of Science and Technology (HUST), I obtained the B.S degree in Computer Science from Xi'an Jiaotong University (XJTU). 
 <br/> 
-&nbsp;I currently focus on researching computer systems and architecture, including Zoned Namespace (ZNS) SSD, File System, and Mobile Storage.
+&emsp;I currently focus on researching computer systems and architecture, including Zoned Namespace (ZNS) SSD, File System, and Mobile Storage.
 <br/>
 Contact me: cwjhust@gmail.com
 

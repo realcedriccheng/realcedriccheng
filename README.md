@@ -1,5 +1,5 @@
 
-Student of 
+**Student of**
 <br/>
 &emsp;*Key Laboratory of Information Storage System, Ministry of Education of China*
 <br/>
@@ -7,13 +7,13 @@ Student of
 <br/>
 &emsp;*Huazhong University of Science and Technology*
 
-Brief Biography: 
+**Brief Biography:**
 <br/>
 &emsp;I am a Master student in Huazhong University of Science and Technology (HUST), I obtained the B.S degree in Computer Science from Xi'an Jiaotong University (XJTU). 
 <br/> 
 &emsp;I currently focus on researching computer systems and architecture, including Zoned Namespace (ZNS) SSD, File System, and Mobile Storage.
 <br/>
-Contact me: cwjhust@gmail.com
+**Contact me**: cwjhust@gmail.com
 
 <!--
 **realcedriccheng/realcedriccheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

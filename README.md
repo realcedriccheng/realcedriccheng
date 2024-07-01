@@ -13,7 +13,7 @@
 <br/> 
 &emsp;I currently focus on researching computer systems and architecture, including Zoned Namespace (ZNS) SSD, File System, and Mobile Storage.
 <br/>
-**Contact me**: cwjhust@gmail.com
+**Contact Me**: cwjhust@gmail.com
 
 <!--
 **realcedriccheng/realcedriccheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
